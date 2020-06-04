@@ -1,0 +1,41 @@
+
+   
+  .App-header {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+
+  
+  .losange, .losange div {
+    transform-origin: 50% 50%;
+    overflow: hidden;
+    width: 240px;
+    height: 240px;
+  }
+  .losange {
+    transform: rotate(45deg) translateY(10px);
+  }
+  .losange .los1 {
+    width: 345px;
+    height: 345px;
+    transform: rotate(-45deg) translateY(-74px);
+  }
+  .losange .los1 img {
+    width: 100%;
+    height: auto;
+  }
+
+
+
+#description {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+  
+  
+ 
+  
