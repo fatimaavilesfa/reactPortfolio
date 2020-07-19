@@ -30,9 +30,9 @@ render() {
   return (
       <div>
         <form  onSubmit={this.handleSubmit}>
-          <h1>Send Me Resume</h1>
+          <h1>Resume</h1>
           <label>
-            Enter your Email:
+            Please enter your email:
             <br></br>
             <input type="text" value={this.state.value} onChange={this.handleChange}/>
           </label>
