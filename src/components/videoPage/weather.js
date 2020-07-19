@@ -1,7 +1,7 @@
 import React from 'react';
 import weather from '../images/weatherApp.png';
 
-function Gas() {
+function Weather() {
     return (
         <div>
             <h3>Weather App</h3>
@@ -18,4 +18,4 @@ function Gas() {
     );
   }
   
-  export default Gas;
+  export default Weather;
