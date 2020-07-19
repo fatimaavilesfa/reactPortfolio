@@ -1,7 +1,7 @@
 import React from 'react';
 import aw1 from '../images/aw1.png';
 
-function Cv() {
+function Aw() {
     return (
         <div>
             <h3>diabetes Awareness</h3>
@@ -18,4 +18,4 @@ function Cv() {
     );
   }
   
-  export default Cv;
+  export default Aw;
