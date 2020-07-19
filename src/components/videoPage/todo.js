@@ -1,13 +1,13 @@
 import React from 'react';
-import ReactPlayer from 'react-player'
-import todo from '../videos/todo.mp4';
+import todo from '../images/todo.png';
 
 function Todo() {
     return (
         <div>
         <h3>To do List</h3>
         <h6>Project for KSquare university made with HTML, CSS and Javascript</h6>
-        <ReactPlayer url={todo} playing={true} />
+        <img src={todo} alt="weather App" style={{height: "360px", width:"640px"}}/>
+            <br></br>
         <a
           className="App-link"
           href="https://fatimaavilesfa.github.io/toDo/"

@@ -1,13 +1,13 @@
 import React from 'react';
-import ReactPlayer from 'react-player'
-import ghibli from '../videos/ghibli.mp4';
+import ghibli from '../images/ghibli.png';
 
 function Ghibli() {
     return (
         <div>
             <h3>Ghibli Search</h3>
             <h6>Project made to practice geting an api and search functionality and autocomplete</h6>
-            <ReactPlayer url={ghibli} playing={true} />
+            <img src={ghibli} alt="weather App" style={{height: "360px", width:"640px"}}/>
+            <br></br>
             <a
                 className="App-link"
                 href="https://fatimaavilesfa.github.io/PruebaGhibli/"

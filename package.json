@@ -42,17 +42,17 @@
     ]
   },
   "proxy": "http://127.0.0.1:8080",
-  "description": "Project for Ksquare University to show what I have learn so far :)",
+  "description": "",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/kuniversity/nextgen-2020_1/fatima_portfolio.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/kuniversity/nextgen-2020_1/fatima_portfolio/issues"
+    "url": ""
   },
   "homepage": ""
 }
