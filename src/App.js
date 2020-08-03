@@ -37,14 +37,14 @@ function App() {
           <Link to="/Skills">Skills</Link>
         </div>
         <div>
-          <Link to="/Form">Resume</Link>
+          <a href="/fatimaResume.pdf">Resume</a>
         </div>
       </menu>
       <div className="App">
         <Route exact path="/" component={Home} />
         <Route path="/Projects" component={Projects} />
         <Route path="/Skills" component={Skills} />
-        <Route path="/Form" component={Form} />
+        {/* <Route path="/Form" component={Form} /> */}
       </div>
     </SlitPlane>
   </Router>
