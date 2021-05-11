@@ -39,6 +39,9 @@ function App() {
         <div>
           <a href="/fatimaResume.pdf">Resume</a>
         </div>
+        <div>
+          <Link to="/blog">Blog</Link>
+        </div>
       </menu>
       <div className="App">
         <Route exact path="/" component={Home} />
