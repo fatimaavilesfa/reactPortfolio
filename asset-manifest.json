@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13f462dc.chunk.css",
+    "main.js": "/static/js/main.fa23d804.chunk.js",
+    "main.js.map": "/static/js/main.fa23d804.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e65a3091.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e65a3091.js.map",
+    "static/js/2.e8e33f9e.chunk.js": "/static/js/2.e8e33f9e.chunk.js",
+    "static/js/2.e8e33f9e.chunk.js.map": "/static/js/2.e8e33f9e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ab1b36b2e5082f9dc8550b8800b3126.js": "/precache-manifest.3ab1b36b2e5082f9dc8550b8800b3126.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.13f462dc.chunk.css.map": "/static/css/main.13f462dc.chunk.css.map",
+    "static/js/2.e8e33f9e.chunk.js.LICENSE.txt": "/static/js/2.e8e33f9e.chunk.js.LICENSE.txt",
+    "static/media/aw1.png": "/static/media/aw1.08043b87.png",
+    "static/media/gallery.png": "/static/media/gallery.aabfac02.png",
+    "static/media/ghibli.png": "/static/media/ghibli.e73c5719.png",
+    "static/media/App.css": "/static/media/purple2.68791ff0.jpg",
+    "static/media/weatherApp.png": "/static/media/weatherApp.f6129266.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65a3091.js",
+    "static/js/2.e8e33f9e.chunk.js",
+    "static/css/main.13f462dc.chunk.css",
+    "static/js/main.fa23d804.chunk.js"
+  ]
+}
