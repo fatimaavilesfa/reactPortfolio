@@ -40,7 +40,7 @@ function App() {
           <a href="/fatimaResume.pdf">Resume</a>
         </div>
         <div>
-          <Link to="/blog">Blog</Link>
+        <a href="https://fatimaavilesfa.github.io/blog/">Blog</a>
         </div>
       </menu>
       <div className="App">
